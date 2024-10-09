@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Resources Accessor Sample</string>
+    <string name="title_activity_compose">ComposeActivity</string>
+    <string name="file_name_prefix">renamed_</string>
+</resources>
